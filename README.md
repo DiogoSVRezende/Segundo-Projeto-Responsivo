@@ -13,4 +13,4 @@
 - 🖥️
 <br>
 -  📱
- 
+ <img src=" https://github.com/DiogoSVRezende/Segundo-Projeto-Responsivo/blob/main/foto.png?raw=true"  />
